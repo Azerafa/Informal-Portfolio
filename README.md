@@ -1,4 +1,4 @@
-First-Processing-Project-
+Informal Portfolio for IDM
 =========================
 
 just my first few attempts at using Processing
