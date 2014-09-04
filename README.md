@@ -1,4 +1,4 @@
 First-Processing-Project-
 =========================
 
-just my first few attempts 
+just my first few attempts at using Processing
