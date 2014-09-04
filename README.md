@@ -1,4 +1,4 @@
 Informal Portfolio for IDM
 =========================
 
-just my first few attempts at using Processing
+A collaboration of informal projects and pieces relating to IDM 
