@@ -1,9 +1,6 @@
 
-informal-portfolio
+informal-university-projects
 =======
 
-ongoing class portfolio 
-=======
-
-A collaboration of informal projects and pieces relating to IDM 
+A collection of informal projects and pieces relating to IDM 
 
